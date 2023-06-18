@@ -9,6 +9,8 @@ class Multiplication
                 System.out.println("The Intialized value for num1 is :"+num1);
                 System.out.println("The Intialized value for num2 is :"+num2);
                 System.out.println("The product of two numbers is :" + product);
+		System.out.println("The commit is added in the Practice branch");
+
         }
 }
 
